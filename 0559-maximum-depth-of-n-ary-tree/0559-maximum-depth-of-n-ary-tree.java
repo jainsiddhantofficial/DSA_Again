@@ -27,6 +27,6 @@ class Solution {
         int ans = Integer.MIN_VALUE;
         for(Node node : root.children)
             ans = Math.max(ans, maxDepth(node) + 1);
-        return ans;
+        return ans
     }
 }
