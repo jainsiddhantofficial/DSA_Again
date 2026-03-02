@@ -25,7 +25,7 @@ class Solution {
                 j--;
                 swaps++;
             }
-        }
+        
 
         return swaps;
     }
