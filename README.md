@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
 <!---LeetCode Topics End-->
