@@ -38,4 +38,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0184-department-highest-salary/) | Medium |
+| [0511-game-play-analysis-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
