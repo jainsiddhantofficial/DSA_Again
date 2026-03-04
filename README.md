@@ -34,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0184-department-highest-salary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
