@@ -3,7 +3,7 @@ class Solution {
         // A "good" substring must have length 3
         if (s.length() < 3) {
             return 0;
-        
+        }
         
         int res = 0;
         int i = 0;
