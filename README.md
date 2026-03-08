@@ -81,4 +81,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 <!---LeetCode Topics End-->
