@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
