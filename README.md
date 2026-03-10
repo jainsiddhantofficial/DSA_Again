@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
