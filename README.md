@@ -105,4 +105,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
