@@ -121,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
