@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Database
