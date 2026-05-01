@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
+| [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
+| [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
 | [0372-super-pow](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0372-super-pow/) | Medium |
+| [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
 | [0780-reaching-points](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0780-reaching-points/) | Hard |
