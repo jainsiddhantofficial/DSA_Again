@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0061-rotate-list/) | Medium |
 | [0443-string-compression](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
@@ -414,4 +415,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
