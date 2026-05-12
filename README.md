@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
