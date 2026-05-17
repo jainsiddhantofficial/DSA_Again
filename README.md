@@ -456,4 +456,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0061-rotate-list/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0194-transpose-file](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0194-transpose-file/) | Medium |
 <!---LeetCode Topics End-->
