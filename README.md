@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1089-duplicate-zeros/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1306-jump-game-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
+| [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
