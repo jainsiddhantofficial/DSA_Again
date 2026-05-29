@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0372-super-pow/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0483-smallest-good-base](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0483-smallest-good-base/) | Hard |
+| [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0640-solve-the-equation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0640-solve-the-equation/) | Medium |
 | [0780-reaching-points](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0780-reaching-points/) | Hard |
@@ -506,4 +508,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 <!---LeetCode Topics End-->
