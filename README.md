@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
 | [0476-number-complement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0476-number-complement/) | Easy |
