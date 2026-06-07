@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2615-sum-of-distances/) | Medium |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,4 +561,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3161-block-placement-queries/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
