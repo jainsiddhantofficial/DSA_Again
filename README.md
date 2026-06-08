@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0330-patching-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0330-patching-array/) | Hard |
+| [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1054-distant-barcodes](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1054-distant-barcodes/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
+| [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 | [0788-rotated-digits](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
+| [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 | [0476-number-complement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0476-number-complement/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -570,4 +573,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
