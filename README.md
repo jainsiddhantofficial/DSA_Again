@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0330-patching-array](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0330-patching-array/) | Hard |
 | [0335-self-crossing](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0335-self-crossing/) | Hard |
+| [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0393-utf-8-validation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0403-frog-jump/) | Hard |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0022-generate-parentheses/) | Medium |
 | [0273-integer-to-english-words](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0273-integer-to-english-words/) | Hard |
+| [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0443-string-compression](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0443-string-compression/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0537-complex-number-multiplication/) | Medium |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0519-random-flip-matrix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0519-random-flip-matrix/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -564,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -609,4 +613,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0397-integer-replacement/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
 <!---LeetCode Topics End-->
