@@ -42,6 +42,7 @@ I have started Solving DSA Questions Again ! :)
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -113,6 +114,7 @@ I have started Solving DSA Questions Again ! :)
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2126-destroying-asteroids/) | Medium |
@@ -496,6 +498,7 @@ I have started Solving DSA Questions Again ! :)
 | [1340-jump-game-v](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -620,4 +623,8 @@ I have started Solving DSA Questions Again ! :)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0336-palindrome-pairs](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/0336-palindrome-pairs/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/jainsiddhantofficial/DSA_Again/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
